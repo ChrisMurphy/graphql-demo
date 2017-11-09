@@ -1,2 +1,2 @@
-# graphql-demo
+# GraphQL Demo
 Experimenting with GraphQL
